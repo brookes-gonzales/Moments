@@ -1,6 +1,14 @@
+
+
 # Moments
 
 A cross-platform Flutter journaling application for capturing, organizing, and revisiting meaningful moments.
+
+---
+
+## Demo
+
+A walkthrough of the app can be located here: https://youtu.be/yxqrODnfNRc
 
 ---
 
